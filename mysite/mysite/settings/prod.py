@@ -4,7 +4,7 @@ from mysite.settings.common import *
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['13.59.202.149', ]
+ALLOWED_HOSTS = ['13.124.207.132', ]
 
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
